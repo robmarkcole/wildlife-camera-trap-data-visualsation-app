@@ -12,12 +12,13 @@ Wildlife camera trap data consists of geolocated time stamped images in folders.
 ## MVP
 * Jupyter notebook for processing single folder of images, generating a table of results, and provide a visualisation of the timeline data (scrubbing through processed images)
 
-## Tech resources
+## Resources
 * (top hit) https://agentmorris.github.io/camera-trap-ml-survey/ -> comprehensive set of links covering ML camera traps
 * https://www.microsoft.com/en-us/ai/ai-for-earth-tech-resources -> datasets and APIs
 * https://github.com/microsoft/CameraTraps -> microsoft camera traps processing package
 * https://dash-gallery.plotly.host/dash-object-detection/ -> plotly object detection dashboard
 * https://github.com/streamlit/demo-self-driving -> streamlit object detection explorer
+* NOAA fish monitoring tools -> https://nmfs-fish-tools.github.io/ and [read](http://www.viametoolkit.org/wp-content/uploads/2016/09/VIAME-overview-web.pdf?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=79366324&_hsenc=p2ANqtz-_I6w5gBfe6po6ckmFgZJSOuCD8gLwy2UcSnN0W6xlZ6LC1xOP6mYP4LuOcoRNzd5he_M5DFmt-9uXfr-RsyL0G3sM6EA&_hsmi=79366324)
 
 ## Datasets
 * http://lila.science/datasets
