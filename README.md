@@ -19,6 +19,7 @@ Wildlife camera trap data consists of geolocated time stamped images in folders.
 * https://dash-gallery.plotly.host/dash-object-detection/ -> plotly object detection dashboard
 * https://github.com/streamlit/demo-self-driving -> streamlit object detection explorer
 * NOAA fish monitoring tools -> https://nmfs-fish-tools.github.io/ and [read](http://www.viametoolkit.org/wp-content/uploads/2016/09/VIAME-overview-web.pdf?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=79366324&_hsenc=p2ANqtz-_I6w5gBfe6po6ckmFgZJSOuCD8gLwy2UcSnN0W6xlZ6LC1xOP6mYP4LuOcoRNzd5he_M5DFmt-9uXfr-RsyL0G3sM6EA&_hsmi=79366324)
+* [Photoprism](https://github.com/photoprism/photoprism)
 
 ## Datasets
 * http://lila.science/datasets
