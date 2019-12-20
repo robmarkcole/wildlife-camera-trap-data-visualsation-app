@@ -14,6 +14,7 @@ Wildlife camera trap data consists of geolocated time stamped images in folders.
 
 ## Resources
 * (top hit) https://agentmorris.github.io/camera-trap-ml-survey/ -> comprehensive set of links covering ML camera traps
+* https://www.wildlifeinsights.org/home -> Google backed platform to identify, share, analyze and discover near-real time information on wildlife, all in one place. Read [Googles blog post](https://blog.google/products/earth/ai-finds-where-the-wild-things-are/)
 * https://www.microsoft.com/en-us/ai/ai-for-earth-tech-resources -> datasets and APIs
 * https://github.com/microsoft/CameraTraps -> microsoft camera traps processing package
 * https://dash-gallery.plotly.host/dash-object-detection/ -> plotly object detection dashboard
